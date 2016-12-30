@@ -1,7 +1,7 @@
 {
   "name": "ramda-extra",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "dist/main.js",
   "author": "c4605 <bolasblack@gmail.com>",
   "license": "MIT",
   "scripts": {
